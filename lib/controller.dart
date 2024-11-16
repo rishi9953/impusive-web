@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:driftdemo/database.dart';
+import 'package:driftdemo/Database/database.dart';
 import 'package:driftdemo/gZipDecode.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

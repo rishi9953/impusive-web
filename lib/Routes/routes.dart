@@ -1,6 +1,6 @@
 import 'package:driftdemo/Routes/routesName.dart';
-import 'package:driftdemo/home.dart';
-import 'package:driftdemo/splashscreen.dart';
+import 'package:driftdemo/Screens/home.dart';
+import 'package:driftdemo/Screens/splashscreen.dart';
 import 'package:get/get.dart';
 
 final getPages = <GetPage>[
